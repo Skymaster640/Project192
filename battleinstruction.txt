@@ -1,0 +1,31 @@
+Thank you for playing my short demo of a Turn-Based RPG. This text file will tell you how you can play!
+
+When loading up the game, you have three options, Easy, Medium, and Hard difficulties.
+
+Just press the button the sign tells you to press to start!
+(Please note, only Easy difficulty is made right now, the other difficulties will come soon.)
+
+You will enter the fight, and the monster will spawn!
+
+You get two options, Fight and Item.
+
+Press the corresponding button to use that action!
+
+If you use fight, you will attack the enemy for a certain amount of damage.
+And you have a 1/20 chance to deal a Critical Hit which deals double the damage!
+
+The difficulty you selected will decide the amount of health you have, and the amount of damage you can do!
+
+If you use item, you will use a Health Potion which heals a certain amount of health, depending on difficulty.
+
+Though, be careful, you have a limited amount of items, which there will be a counter showing how many you currently have.
+
+Upon using either action, upon pressing the "z" button, you will give the turn over to the enemy.
+
+The enemy will then attack you, also with a chance to get a Critical Hit!
+
+Once they attack you, press the "z" button again to have your turn again.
+
+And once you get the enemy's HP down to zero, you win!
+
+That is all you need to know, now be sure to have fun!
